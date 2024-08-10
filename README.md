@@ -1,2 +1,2 @@
 # devops-shell
-For Learning and practies perpose
+This repo is created to add all the basics  and Learning realated shell
