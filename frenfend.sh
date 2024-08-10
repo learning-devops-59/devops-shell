@@ -9,3 +9,4 @@ systemctl restart nginx
 systemctl status nginx
 
 echo "** Frontend installation is completed **"
+completed
