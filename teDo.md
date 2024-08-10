@@ -16,6 +16,7 @@ git stash pop -q
 # Return the './gradlew test' exit code
 exit $RESULT
 # << must have a newline after the above command >>
+git push
 
 
 How to authentication out git hub account from our computer
